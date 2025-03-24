@@ -1,5 +1,5 @@
-import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
+import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
 
 const CartScreen = () => {
   return (
@@ -9,6 +9,6 @@ const CartScreen = () => {
   )
 }
 
-export default CartScreen
+export default CartScreen;
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({});
